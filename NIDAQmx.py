@@ -16,8 +16,7 @@ class NIDAQmx():
         - was tested with Python 2.7 but should run with Python 3.x
 
     This class is meant as a lightweight code to be used as a "code snippet" and not as a full package.
-    For more functionalities, you can use libraries like "NI-DAQmx Python":
-    https://NIDAQmxmx-python.readthedocs.io/en/latest/
+    For more functionalities, you can use libraries like "NI-DAQmx Python".
     """
 
     def __init__(self, daq_name):
