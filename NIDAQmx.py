@@ -4,7 +4,7 @@ import numpy
 
 class NIDAQmx():
     """
-    This Python class controls the NI-6215 USB DAQ::
+    This Python class controls the NI-6215 USB DAQ:
         - connect to the device
         - read and write
         - analog and digital signals
