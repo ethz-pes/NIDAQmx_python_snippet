@@ -15,8 +15,8 @@ if __name__ == "__main__":
     # read
     channel_analog = 0
     channel_digital = 1
-    obj.analog_read(channel_analog)
-    obj.digital_read(channel_digital)
+    value = obj.analog_read(channel_analog)
+    value = obj.digital_read(channel_digital)
 
     # write
     channel_analog = 0
