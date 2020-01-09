@@ -14,7 +14,6 @@ This class:
 This class is meant as a lightweight code to be used as a "code snippet" and not as a full package.
 For more functionalities, you can use libraries like "NI-DAQmx Python".
 
-
 ## Author
 
 **Thomas Guillod** - [GitHub Profile](https://github.com/otvam)
