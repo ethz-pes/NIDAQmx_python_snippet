@@ -1,4 +1,4 @@
-# Python code snippet for NI-DAQmx (NI-6215)
+# Python code for NI-DAQmx (NI-6215)
 
 This **Python** class controls the **NI-6215** USB DAQ:
 * connect to the device
