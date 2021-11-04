@@ -1,5 +1,10 @@
 # Python Code for NI-DAQmx (NI-6215)
 
+![license - BSD](https://img.shields.io/badge/license-BSD-green)
+![language - python](https://img.shields.io/badge/language-python-blue)
+![category - power electronics](https://img.shields.io/badge/category-power%20electronics-lightgrey)
+![status - unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
 This **Python** class controls the **NI-6215** USB DAQ:
 * connect to the device
 * read and write
